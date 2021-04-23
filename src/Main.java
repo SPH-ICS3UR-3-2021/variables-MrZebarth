@@ -11,7 +11,7 @@
 public class Main {
     public static void main(String[] args){
         int myInteger=13;
-
+        String myName="Mr. Zebarth";
         System.out.println("Integer Variable: "+myInteger);
     }
     

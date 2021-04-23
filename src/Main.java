@@ -10,7 +10,9 @@
  */
 public class Main {
     public static void main(String[] args){
-        
+        int myInteger=13;
+
+        System.out.println("Integer Variable: "+myInteger);
     }
     
 }
